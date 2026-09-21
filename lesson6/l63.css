@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Amazon button</title>
-    
-</head>
-<body>
-    <style>
 .amazon-button
     {
         background-color: yellow;
@@ -21,8 +13,3 @@
     {
         background-color: blueviolet;
     }
-
-<button class="amazon-button">Add to cart</button>
-</style>
-</body>
-</html>
